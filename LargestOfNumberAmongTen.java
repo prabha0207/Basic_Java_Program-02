@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Largest_Number 
+public class LargestOfNumberAmongTen
 {
     public static void main(String[] args) 
     {
